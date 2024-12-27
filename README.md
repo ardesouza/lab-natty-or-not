@@ -63,6 +63,6 @@ Implicações Futuras: Este exemplo ilustra como as IAs Generativas podem transf
 
 - [Artigo](Projeto/Artigo)
 - [Imagem](/Projeto/Imagem.jpg)
-- [E-book](/projeto/E-book.md)
+- [E-book](/Projeto/E-book.pdf)
 
 
