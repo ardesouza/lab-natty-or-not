@@ -27,11 +27,11 @@ As IAs Generativas representam um salto significativo na capacidade das máquina
 
 O processo de criação deste projeto envolveu a integração de diversas ferramentas de Inteligência Artificial Generativa, cada uma especializada em um tipo de mídia, para produzir um conteúdo rico e abrangente. As etapas principais foram:
 
-    **Geração de Texto (Artigo):** A primeira etapa consistiu na criação do conteúdo textual principal, um artigo, utilizando o Gemini. O Gemini, como um modelo de linguagem grande desenvolvido pelo Google, foi capaz de gerar um texto coerente, informativo e adaptado ao    tema central do projeto;
+**Geração de Texto (Artigo):** A primeira etapa consistiu na criação do conteúdo textual principal, um artigo, utilizando o Gemini. O Gemini, como um modelo de linguagem grande desenvolvido pelo Google, foi capaz de gerar um texto coerente, informativo e adaptado ao    tema central do projeto;
 
-    **Geração de Imagem (Ilustração):** Para complementar o artigo e torná-lo visualmente atraente, foi utilizada a plataforma Ideogram.ai. Essa ferramenta, especializada em geração de imagens a partir de prompts de texto, permitiu criar uma ilustração que representa      visualmente os conceitos abordados no artigo. O processo envolveu a experimentação com diferentes prompts até se obter uma imagem que atendesse aos objetivos estéticos e comunicativos;
+**Geração de Imagem (Ilustração):** Para complementar o artigo e torná-lo visualmente atraente, foi utilizada a plataforma Ideogram.ai. Essa ferramenta, especializada em geração de imagens a partir de prompts de texto, permitiu criar uma ilustração que representa      visualmente os conceitos abordados no artigo. O processo envolveu a experimentação com diferentes prompts até se obter uma imagem que atendesse aos objetivos estéticos e comunicativos;
 
-    **Criação do E-book (Diagramação e Design):** A etapa final consistiu na transformação do artigo e da imagem em um e-book completo, utilizando o Gamma.app. Essa plataforma automatiza o processo de design e diagramação de e-books, permitindo a criação rápida e          eficiente de um material visualmente agradável e profissional. O Gamma.app cuidou da formatação, layout, inclusão da imagem e organização do conteúdo em um formato adequado para leitura digital
+**Criação do E-book (Diagramação e Design):** A etapa final consistiu na transformação do artigo e da imagem em um e-book completo, utilizando o Gamma.app. Essa plataforma automatiza o processo de design e diagramação de e-books, permitindo a criação rápida e          eficiente de um material visualmente agradável e profissional. O Gamma.app cuidou da formatação, layout, inclusão da imagem e organização do conteúdo em um formato adequado para leitura digital
 
 
 **Tecnologias Utilizadas:**
