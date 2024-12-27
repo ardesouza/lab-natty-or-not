@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 As IAs Generativas representam um salto significativo na capacidade das máquinas de criar. Este trabalho investiga como esses modelos estão gerando conteúdo original, desde textos e imagens até música e código, impulsionando a criatividade humana e abrindo caminho para novas formas de expressão e inovação em diversos campos.
 
-**Descrição do Processo de Criação:**
+### Descrição do Processo de Criação:
 
 O processo de criação deste projeto envolveu a integração de diversas ferramentas de Inteligência Artificial Generativa, cada uma especializada em um tipo de mídia, para produzir um conteúdo rico e abrangente. As etapas principais foram:
 
@@ -34,13 +34,13 @@ O processo de criação deste projeto envolveu a integração de diversas ferram
 **Criação do E-book (Diagramação e Design):** A etapa final consistiu na transformação do artigo e da imagem em um e-book completo, utilizando o Gamma.app. Essa plataforma automatiza o processo de design e diagramação de e-books, permitindo a criação rápida e          eficiente de um material visualmente agradável e profissional. O Gamma.app cuidou da formatação, layout, inclusão da imagem e organização do conteúdo em um formato adequado para leitura digital
 
 
-**Tecnologias Utilizadas:**
+### Tecnologias Utilizadas:
 
 Gemini (Google): Modelo de linguagem grande utilizado para gerar o conteúdo textual (artigo). Capacidades: geração de texto, compreensão de linguagem natural, resposta a perguntas, tradução, etc.
 Ideogram.ai: Plataforma de geração de imagens a partir de texto. Capacidades: criação de imagens originais com base em descrições textuais, diferentes estilos artísticos, etc.
 Gamma.app: Plataforma para criação automatizada de apresentações, documentos e e-books. Capacidades: diagramação automática, design de layout, formatação de texto e imagens, exportação para diferentes formatos.
 
-**Reflexão:**
+### Reflexão:
 
 Este projeto demonstra o imenso potencial das IAs Generativas para a criação de conteúdo diversificado e integrado. A combinação de diferentes ferramentas permitiu automatizar tarefas que antes demandariam muito tempo e esforço, como a redação de um artigo, a criação de uma ilustração e a diagramação de um e-book.
 
