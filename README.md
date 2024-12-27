@@ -61,7 +61,7 @@ Implicações Futuras: Este exemplo ilustra como as IAs Generativas podem transf
 
 ### Projeto desenvolvido
 
-- [Artigo](/projeto/Artigo.md)
+- [Artigo](/projeto/Artigo)
 - [Imagem](/projeto/Imagem.md)
 - [E-book](/projeto/E-book.md)
 
